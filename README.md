@@ -2,7 +2,7 @@
 
 *GitHub Explorer* is an interactive dashboard built with *React.js* that allows users to explore trending GitHub repositories. It fetches real-time data from the *GitHub REST API* and provides features such as search, sorting, filtering, bookmarking, note-taking, and analytics visualization using *Chart.js. The interface is styled with **Tailwind CSS* for a modern and responsive UI.
 
----
+DIRECT LINK :- http://localhost:5173/
 
 ## 🔹 Features
 
@@ -50,3 +50,4 @@ Filter repositories by programming language
 Bookmark repositories and add notes
 
 No installation or configuration is needed for the evaluator—they can directly see and use the project.
+
